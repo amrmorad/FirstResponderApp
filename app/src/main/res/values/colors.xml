@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_text_color">#AA000000</color>
+    <color name="color_divider">#55000000</color>
+    <color name="selected_color">#33000000</color>
+    <color name="rooms_bg">#11000000</color>
+    <color name="main_bg">#11c2c2a3</color>
+
+    <color name="link_text_color">#529dd1</color>
+</resources>
